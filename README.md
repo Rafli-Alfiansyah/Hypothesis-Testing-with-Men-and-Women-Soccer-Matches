@@ -4,7 +4,7 @@
 
 ## An Investigation into Goal-Scoring Trends in International Soccer
 
-As a sports journalist specializing in soccer analysis, I've noticed a persistent trend that my gut tells me is worth investigating: it seems that more goals are scored in women's international football matches than in men's. This observation, if statistically validated, would make for a compelling and highly engaging article for our subscribers. To move beyond mere anecdotal evidence and provide a data-driven analysis, I will conduct a formal statistical hypothesis test.
+I've noticed a persistent trend that this is worth investigating: it seems that more goals are scored in women's international football matches than in men's. This observation, if statistically validated, would make for a compelling and highly engaging article for our subscribers. To move beyond mere anecdotal evidence and provide a data-driven analysis, I will conduct a formal statistical hypothesis test.
 
 ### Scope and Data Collection
 
