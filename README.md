@@ -29,3 +29,7 @@ The test yielded a **p-value of approximately 0.0051**.
 The core of hypothesis testing is to compare the calculated p-value against a predetermined significance level (α). In this investigation, the significance level was set at **0.10**.
 Our resulting p-value (0.0051) is significantly lower than the alpha value (0.10). Therefore, we **reject the null hypothesis**.
 This indicates a statistically significant result. The data provides strong evidence to support the alternative hypothesis, leading to the conclusion that, within the scope of FIFA World Cup matches since 2002, **more goals are scored in women's matches than in men's matches**.
+
+### Tools
+
+**Python**
