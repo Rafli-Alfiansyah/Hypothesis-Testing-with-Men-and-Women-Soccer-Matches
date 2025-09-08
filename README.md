@@ -17,3 +17,15 @@ The core question I am seeking to answer is whether the mean number of goals sco
 **Null Hypothesis ($H_0$)**: The mean number of goals scored in women's international soccer matches is the same as men's.
 **Alternative Hypothesis ($H_A$)**: The mean number of goals scored in women's international soccer matches is greater than men's.
 For the statistical analysis, I will assume a **10% significance level** ($\alpha = 0.10$). The chosen significance level allows for a degree of flexibility in our analysis, reflecting the inherent variability in sports data while still providing a robust framework for drawing conclusions. By performing a valid statistical test, I aim to either reject the null hypothesis in favor of my alternative hypothesis or conclude that there is not enough evidence to support the claim, thus providing a definitive, data-backed answer to my initial observation. 
+
+### Results
+
+The analysis began by filtering the datasets to isolate FIFA World Cup matches played since January 1, 2002. This resulted in a sample of **200 women's matches** and **384 men's matches**. For each match, the total number of goals was calculated by summing the home and away scores.
+To test the hypothesis, a **Mann-Whitney U test** was performed. This non-parametric test was chosen to compare the distributions of goals scored between the men's and women's matches. The test was specifically configured to check if the number of goals in women's matches was statistically "greater" than in men's matches.
+The test yielded a **p-value of approximately 0.0051**.
+
+### Conclusion
+
+The core of hypothesis testing is to compare the calculated p-value against a predetermined significance level (α). In this investigation, the significance level was set at **0.10**.
+Our resulting p-value (0.0051) is significantly lower than the alpha value (0.10). Therefore, we **reject the null hypothesis**.
+This indicates a statistically significant result. The data provides strong evidence to support the alternative hypothesis, leading to the conclusion that, within the scope of FIFA World Cup matches since 2002, **more goals are scored in women's matches than in men's matches**.
